@@ -1,2 +1,2 @@
 # Alura
-Projetos feitos em meus estudos da Alura
+Projetos feitos em meus estudos pela Alura
